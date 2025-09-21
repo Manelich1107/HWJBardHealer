@@ -17,7 +17,7 @@ Items: {
 	}
 
 	CubismKunai: {
-		DisplayName: Cubism Kunai
+		DisplayName: 立体苦无
 		Tooltip: ""
 	}
 }
@@ -25,8 +25,8 @@ Items: {
 Projectiles: {
 	OtherworldlyBubble.DisplayName: 超世泡泡
 	OtherworldlyScythePro.DisplayName: 超世之镰弹幕
-	RodScytheBeam.DisplayName: Rod Scythe Beam
-	RodScythePro.DisplayName: Rod Scythe Pro
-	CubismKunaiProj.DisplayName: Cubism Kunai Proj
-	FissionThrow_2.DisplayName: Fission Throw_2
+	RodScytheBeam.DisplayName: 天竿之镰光线
+	RodScythePro.DisplayName: 天竿之镰
+	CubismKunaiProj.DisplayName: 立体苦无
+	FissionThrow_2.DisplayName: 裂变
 }
