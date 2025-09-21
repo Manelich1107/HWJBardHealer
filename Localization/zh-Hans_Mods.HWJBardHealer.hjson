@@ -1,13 +1,13 @@
 Buffs: {
 	BubbleShield: {
-		DisplayName: Bubble Shield
-		Description: Reduces next damage by 10%
+		DisplayName: 泡泡护盾
+		Description: 下次受到的伤害减少10%
 	}
 }
 
 Items: {
 	OtherworldlyScythe: {
-		DisplayName: Otherworldly Scythe
+		DisplayName: 超世之镰
 		Tooltip: ""
 	}
 
@@ -23,8 +23,8 @@ Items: {
 }
 
 Projectiles: {
-	OtherworldlyBubble.DisplayName: Otherworldly Bubble
-	OtherworldlyScythePro.DisplayName: Otherworldly Scythe Pro
+	OtherworldlyBubble.DisplayName: 超世泡泡
+	OtherworldlyScythePro.DisplayName: 超世之镰弹幕
 	RodScytheBeam.DisplayName: Rod Scythe Beam
 	RodScythePro.DisplayName: Rod Scythe Pro
 	CubismKunaiProj.DisplayName: Cubism Kunai Proj
